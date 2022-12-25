@@ -1,1 +1,0 @@
-powershell -c (New-Object Media.SoundPlayer "C:\windows\grinchvirus\music.mp3").PlaySync();
